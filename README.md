@@ -1,3 +1,5 @@
+# This project lets you build your portfolio as per the customized JSON file
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
